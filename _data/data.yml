@@ -90,24 +90,27 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer Senior II (Data Science)
+      time: Sept,2019 - Mar,2021
+      company: Lam Research Corporation, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Pioneered in using predictive analytics to analyze structured and 
+        unstructured data from defect log, production data from defect logs, 
+        production incidents to provide 360-degree view of the behavior of 
+        application in production.Performed regression and correlation 
+        techniques between various applications modules, based on defect 
+        data which helped the team to make informed decisions on optimal 
+        test coverage
+          - Focused on both higher-level automated testing which also includes 
+          lower-level testing like unit and integration. Possess business knowledge 
+          in feature scoping, test planning, test case management and bug management
+          - Assisted the team in creating databases for test execution results with logs, 
+          device vitals, event logs, server parameters, code change lists, commit-related 
+          metadata. These databases are used to develop visual analytics tools to process 
+          data and see what interesting patterns emerge
+    - role: Software Engineer Senior I (Automation)
+      time: Sept,2017 - Aug,2019
+      company: Lam Research Corporation, Bangalore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -116,9 +119,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineer I & II (Automation)
+      time: Jul,2014 - Aug,2017
+      company: Lam Research Corporation, Bangalore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -199,4 +202,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
