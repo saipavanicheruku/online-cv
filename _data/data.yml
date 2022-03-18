@@ -112,24 +112,36 @@ experiences:
       time: Sept,2017 - Aug,2019
       company: Lam Research Corporation, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Performed analytical operations on previous defects, production incidents, 
+        end users’ feedback and developed valuable feedback on software development 
+        process and bug patterns. This helped detect cists early which helped in 
+        better risk management.Debugged software products through the use of systematic 
+        tests to develop, apply, and maintain quality standards for company products. 
+        Developed, modified, and executed software test plans, automated scripts and 
+        programs for testing. 
+          - Analyzed and written test standards and procedures. Maintained documentation 
+          of test results to assist in debugging and modification of software. Analyzed test 
+          results to ensure existing functionality and recommends corrective action. Consulted 
+          with development engineers in resolution of problems
+          - Provided feedback in preparation of technical appraisals of programming languages, 
+          systems, and computation software. Ensured quality computer integration into the 
+          overall functions of scientific computation, data acquisition, and processing
     - role: Software Engineer I & II (Automation)
       time: Jul,2014 - Aug,2017
       company: Lam Research Corporation, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked with Product Owners, developers and business owners to interpret the test needs 
+        as requirements are being developed in order to ensure the standard of testing. Helped 
+        in determining the types of testing that must be conducted and created a test plan that 
+        supports the business and technological solutions being delivered.Created Test cases, 
+        Test Scenarios and scripts in support of business functional requirements and in reusable 
+        state. Executed each Test case to identify defects prior to the delivery of software in a 
+        production environment and actively participate in reviews and checkpoints
+          - Worked with the Business Systems analyst, developer and Project manager to resolve defects 
+          identified during the testing cycle
+          - Responsible for testing data to ensure it complies with specifications and present sound 
+          recommendations through thorough analysis. Ensured in capturing and documenting metrics in 
+          support of the user acceptance testing and recommends improvements.
 projects:
     title: Projects
     intro: >
@@ -183,22 +195,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
+      - name: SQL
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Tableau
         level: 95%
 
-      - name: Ruby on Rails
+      - name: SAS
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Amazon web Services
         level: 60%
 
 footer: >
