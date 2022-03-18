@@ -145,14 +145,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Following are the list of academic projects that I worked on while I was doing my masters.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+      - title: Adobe Analytics Case Competition using Real-World Disney Data
+        details: |
+            Worked on Disney’s data using Adobe Analytics tool to perform exploratory data analysis on user
+            segments over orders, loyalty, marketing channels, to help Disney drive customer purchases.
+            Investigated how abandoned carts are converted into successful orders. Devised strategies to promote
+            this by ‘Enabling User notifications’, and ‘Discount on products in carts’
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
