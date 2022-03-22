@@ -5,7 +5,7 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
     </span>
     {{ projects.title }}
   </h2>
@@ -21,16 +21,33 @@
 
       <span class="project-title">
         {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
+          <a href="{{ project.link }}">
+        {% endif %}
+          {{ project.title }}
+        {% if project.link %}
+          </a>
         {% endif %}
       </span>
+      <span class="project-time"> | {{ project.time }}</span>
+
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <p class="project-tagline">{{ project.tagline }}</p>
       {% endif %}
 
+
+      {% if project.responsibilities %}
+      <p><b>Responsibilities:</b></p>
+      <ul>
+      {% for responsibility in project.responsibilities %}
+        <li>{{ responsibility.name }}</li>
+      {% endfor %}
+      </ul>
+      {% endif %}
+
+      <b>Technologies:</b> {{ project.technologies }}<br/>
+
+    <hr/>
     </div><!--//item-->
   {% endfor %}
 
