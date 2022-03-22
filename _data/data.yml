@@ -146,7 +146,7 @@ projects:
     assignments:
       - title: Adobe Analytics Case Competition using Real-World Disney Data
         time: Aug - Oct 2021
-        link: "#"
+        link: ""
         tagline: ""
         responsibilities:
             - name: Worked on Disney’s data using Adobe Analytics tool to perform exploratory data analysis on user
@@ -157,7 +157,7 @@ projects:
             
       - title: Major League Baseball Data Analysis
         time: Oct - Dec 2021
-        link: "#"
+        link: ""
         tagline: ""
         responsibilities:
             - name: Used Pandas and NumPy to make various statistical decisions as part of descriptive analysis. Predicted
@@ -168,7 +168,7 @@ projects:
 
       - title: Breast Cancer Wisconsin Data Analysis Using Machine Learning
         time: Oct - Dec 2021
-        link: "#"
+        link: ""
         tagline: ""
         responsibilities: 
             - name: Cancerous cell prediction modelling by applying machine learning techniques on cancer data. Implemented KNN, Logistic Regression and Decision tree to predict probability of a person suffering
@@ -179,7 +179,7 @@ projects:
         
       - title: KPMG Virtual Experience Program 2021 Via Forage
         time: Oct 2021
-        link: "#"
+        link: ""
         tagline: ""
         responsibilities:
             - name: Performed analysis with client data against multiple dimensions such as accuracy of key attributes, completeness of required attributes, consistency of attributes across data sets, timeliness of data.
@@ -189,7 +189,7 @@ projects:
 
       - title: Medical Clinic Relational Data Base Design Project
         time: Oct - Dec 2021
-        link: "#"
+        link: ""
         tagline: ""
         responsibilities:
             - name: Developed a database management system for a primary care medical clinic to insert, update and
@@ -199,7 +199,7 @@ projects:
         
       - title: Payment Company Merchant Churn Analysis
         time: Feb 2022
-        link: "#"
+        link: ""
         tagline: ""
         responsibilities:
             - name:
@@ -208,7 +208,7 @@ projects:
         
       - title: Geospatial NYC Subway System Data Analysis
         time: March 2022
-        link: "#"
+        link: ""
         tagline: ""
         responsibilities:
             - name:
