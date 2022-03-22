@@ -28,6 +28,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
+    
     languages:
       - idiom: English
         level: Professional
@@ -66,29 +67,21 @@ career-profile:
       previous job. Recognized as a visionary and creative thinker with strong 
       analytical skills adept at conceptualizing solutions that align advanced 
       analytics with firm’s strategies to meet its objectives.
+
+
 education:
     - degree: MSc in Data Analytics
       university: Baruch College, CUNY, NY GPA-3.8/4.0
       time: 2021 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
     - degree: BSc in Information Science & Technology
       university: Ramaiah Institute of Technology, India, GPA-8.7/10.0
       time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
+
+
 experiences:
     - role: Software Engineer Senior II (Data Science)
       time: Sept,2019 - Mar,2021
@@ -142,6 +135,8 @@ experiences:
           - Responsible for testing data to ensure it complies with specifications and present sound 
           recommendations through thorough analysis. Ensured in capturing and documenting metrics in 
           support of the user acceptance testing and recommends improvements.
+
+
 projects:
     title: Projects
     intro: >
@@ -152,30 +147,68 @@ projects:
       - title: Adobe Analytics Case Competition using Real-World Disney Data
         time: 
         link: "#"
-        technologies:
-        tagline: "Worked on Disney’s data using Adobe Analytics tool to perform exploratory data analysis on user  segments over orders, loyalty, marketing channels, to help Disney drive customer purchases. Investigated how abandoned carts are converted into successful orders. Devised strategies to promot this by ‘Enabling User notifications’, and ‘Discount on products in carts'"
+        tagline: ""
         responsibilities:
             - name: Worked on Disney’s data using Adobe Analytics tool to perform exploratory data analysis on user
                     segments over orders, loyalty, marketing channels, to help Disney drive customer purchases
             - name: Investigated how abandoned carts are converted into successful orders. Devised strategies to promote
                     this by ‘Enabling User notifications’, and ‘Discount on products in carts’
-            - name:
+        technologies: 
             
       - title: Major League Baseball Data Analysis
+        time: 
         link: "#"
-        tagline: "Used Pandas and NumPy to make various statistical decisions as part of descriptive analysis. Predicted likelihood of win/loss using the historical league data utilizing logistic regression in Python’s sklearn.Utilized data wrangling techniques to process and clean data making it suitable for data analysis. Analyzed multiple metric trends over years using matplotlib and seaborn visualizations."
+        tagline: ""
+        responsibilities:
+            - name: 
+            - name: 
+        technologies:
 
       - title: Breast Cancer Wisconsin Data Analysis Using Machine Learning
+        time: 
         link: "#"
-        tagline: "Cancerous cell prediction modelling by applying machine learning techniques on cancer data. Implemented KNN, Logistic Regression and Decision tree to predict probability of a person suffering from cancer. Utilized confusion matrix to validate the models.Calculated the sensitivity, specificity, accuracy, and precision for all three, to analyze the best model for cancerous cell prediction."
-
+        tagline: ""
+        responsibilities: 
+            - name:
+            - name: 
+        technologies: 
+        
       - title: KPMG Virtual Experience Program 2021 Via Forage
+        time: 
         link: "#"
-        tagline: "Performed analysis with client data against multiple dimensions such as accuracy of key attributes, completeness of required attributes, consistency of attributes across data sets, timeliness of data.Summarized the client data into different segment groups. Assisted in transforming the data into actionable insights in the form of data visualizations, reports, and dashboards using Tableau."
+        tagline: ""
+        responsibilities:
+            - name:
+            - name:
+        technologies:
 
       - title: Medical Clinic Relational Data Base Design Project
+        time: 
         link: "#"
-        tagline: "Developed a database management system for a primary care medical clinic to insert, update and manipulate data. Performed Systems analysis and developed ER model for medical clinic DB.Enhanced the ER model and implemented physical database using SQL in Microsoft Access."
+        tagline: ""
+        responsibilities:
+            - name:
+            - name:
+        technologies:
+        
+      - title: Medical Clinic Relational Data Base Design Project
+        time: 
+        link: "#"
+        tagline: ""
+        responsibilities:
+            - name:
+            - name:
+        technologies:
+        
+      - title: Medical Clinic Relational Data Base Design Project
+        time: 
+        link: "#"
+        tagline: ""
+        responsibilities:
+            - name:
+            - name:
+        technologies:
+
 
 skills:
     title: Skills &amp; Proficiency
