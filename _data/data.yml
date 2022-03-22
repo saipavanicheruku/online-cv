@@ -145,12 +145,22 @@ experiences:
 projects:
     title: Projects
     intro: >
+      
       Following are the list of academic projects that I worked on while I was doing my masters.
+    
     assignments:
       - title: Adobe Analytics Case Competition using Real-World Disney Data
+        time: 
         link: "#"
+        technologies:
         tagline: "Worked on Disney’s data using Adobe Analytics tool to perform exploratory data analysis on user  segments over orders, loyalty, marketing channels, to help Disney drive customer purchases. Investigated how abandoned carts are converted into successful orders. Devised strategies to promot this by ‘Enabling User notifications’, and ‘Discount on products in carts'"
-      
+        responsibilities:
+            - name: Worked on Disney’s data using Adobe Analytics tool to perform exploratory data analysis on user
+                    segments over orders, loyalty, marketing channels, to help Disney drive customer purchases
+            - name: Investigated how abandoned carts are converted into successful orders. Devised strategies to promote
+                    this by ‘Enabling User notifications’, and ‘Discount on products in carts’
+            - name:
+            
       - title: Major League Baseball Data Analysis
         link: "#"
         tagline: "Used Pandas and NumPy to make various statistical decisions as part of descriptive analysis. Predicted likelihood of win/loss using the historical league data utilizing logistic regression in Python’s sklearn.Utilized data wrangling techniques to process and clean data making it suitable for data analysis. Analyzed multiple metric trends over years using matplotlib and seaborn visualizations."
