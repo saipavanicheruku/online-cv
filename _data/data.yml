@@ -157,7 +157,7 @@ projects:
             
       - title: Major League Baseball Data Analysis
         time: Oct - Dec 2021
-        link: ""
+        link: "https://github.com/saipavanicheruku/Baseball-Data-Analysis"
         tagline: ""
         responsibilities:
             - name: Used Pandas and NumPy to make various statistical decisions as part of descriptive analysis. Predicted
