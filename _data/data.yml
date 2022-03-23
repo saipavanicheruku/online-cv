@@ -141,7 +141,7 @@ projects:
     title: Projects
     intro: >
       
-      Following are the list of academic projects that I worked on while I was doing my masters.
+      Following are the list of academic projects that I worked on while I was doing my masters. Please click on the respective project title to check the analysis on Github.
     
     assignments:
       - title: Adobe Analytics Case Competition using Real-World Disney Data
@@ -168,7 +168,7 @@ projects:
 
       - title: Breast Cancer Wisconsin Data Analysis Using Machine Learning
         time: Oct - Dec 2021
-        link: ""
+        link: "https://github.com/saipavanicheruku/BreastCancer_Prediction_ML"
         tagline: ""
         responsibilities: 
             - name: Cancerous cell prediction modelling by applying machine learning techniques on cancer data. Implemented KNN, Logistic Regression and Decision tree to predict probability of a person suffering
@@ -199,7 +199,7 @@ projects:
         
       - title: Payment Company Merchant Churn Analysis
         time: Feb 2022
-        link: ""
+        link: "https://github.com/saipavanicheruku/Merchant-Churn-Analysis"
         tagline: ""
         responsibilities:
             - name:
@@ -208,7 +208,7 @@ projects:
         
       - title: Geospatial NYC Subway System Data Analysis
         time: March 2022
-        link: ""
+        link: "https://github.com/saipavanicheruku/Ride-Request-Analysis"
         tagline: ""
         responsibilities:
             - name:
